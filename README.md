@@ -4,7 +4,7 @@
 
 [![PyPI Version](https://img.shields.io/pypi/v/liumi-cli?color=00F0FF&label=Liumi%20CLI&logo=python&logoColor=white)](https://pypi.org/project/liumi-cli/)
 [![Downloads](https://img.shields.io/pypi/dm/liumi-cli?color=blueviolet)](https://pypi.org/project/liumi-cli/)
-[![License](https://img.shields.io/badge/License-MIT-bold?color=000000)](https://opensource.org/licenses/MIT)
+[![License]Private property
 [![Powered By](https://img.shields.io/badge/AI-Gemini%20%7C%20OpenAI%20%7C%20Liumi-00F0FF)](https://liumi.cloud)
 
 **The Autonomous DevOps Agent for the Modern Developer.**
