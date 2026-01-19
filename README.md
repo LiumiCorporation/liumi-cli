@@ -1,4 +1,4 @@
-![Logo]([https://link-to-your-image.png](https://github.com/LiumiCorporation/liumi-cli/blob/8bbd479119e2492995b66b5dbb66cd4d48b843e5/logo.png))
+![Logo](./assets/logo.png)
 
 <div align="center">
 
