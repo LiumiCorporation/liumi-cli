@@ -1,5 +1,4 @@
-![Logo](./assets/logo.png)
-
+![Logo](logo.png)
 <div align="center">
 
 # ⚡ LIU - Liumi Interface Utility
